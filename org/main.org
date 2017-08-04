@@ -1,0 +1,27 @@
+#+PROPERTY: Effort_ALL 0 0:30 1:00 2:00 3:00 4:00 5:00 6:00 7:00 8:00 14:00 28:00 35:00
+#+COLUMNS: %40ITEM(Task) %17Effort(Estimated Effort){:} %CLOCKSUM
+#+STARTUP: hidestars
+#+OPTION headline-levels: 999
+#+STYLE:    <link rel="stylesheet" type="text/css" href="../stylesheet.css" />
+#+FILETAGS: main
+
+#+AUTHOR: 
+#+EMAIL: 
+
+* Clocked In
+:LOGBOOK:
+
+:END:      
+:PROPERTIES:
+   :CLOCK_MODELINE_TOTAL: today
+   :ID: eb155a82-92b2-4f25-a3c6-0304591af2f6
+   :END:
+
+* Time Recon
+
+- C-c C-x C-r
+- http://orgmode.org/manual/The-clock-table.html
+
+#+BEGIN: clocktable :tstart "<2017-08-01 Tue 00:00>" :tend "<2017-09-01 Fri 00:00>" :scope agenda :maxlevel 9 :step day
+#+END:
+
