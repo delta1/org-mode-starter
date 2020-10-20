@@ -2,13 +2,12 @@
 
 ## Install Emacs 
 - [Download page](https://www.gnu.org/software/emacs/download.html)
-- [Direct Windows Download for 25.2](http://mirror.ufs.ac.za/gnu/emacs/windows/emacs-25.2-x86_64.zip)
 
 ## Download the starter
 - Clone this repo to your "home" folder ( on Windows: C:\Users\<username>\AppData\Roaming\ ) as the folder **.emacs.d**
-- ```git clone git@github.com:delta1/.emacs.d.git .emacs.d```
-- In your emacs installation folder run \bin\runemacs.exe 
-- This should now start emacs, set the color theme, and open .emacs.d/org/main.org 
+- ```git clone git@github.com:delta1/org-mode-starter.git .emacs.d```
+- (windows) In your emacs installation folder run `\bin\runemacs.exe`
+- This should now start emacs, set the color theme, and open `.emacs.d/org/main.org`
 
 ## Basic tutorial 
 [Org mode reference card](http://orgmode.org/worg/orgcard.html) 
